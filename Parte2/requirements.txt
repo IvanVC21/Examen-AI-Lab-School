@@ -1,0 +1,12 @@
+fastapi==0.95.1
+matplotlib==3.7.1
+matplotlib-inline==0.1.6
+optuna==3.1.1
+numpy==1.23.5
+pandas==2.0.0
+pydantic==1.10.7
+scikit-learn==1.2.2
+scipy==1.10.1
+seaborn==0.12.2
+uvicorn==0.21.1
+xgboost==1.7.5
